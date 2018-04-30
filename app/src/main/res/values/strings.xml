@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PassingBawah</string>
+    <string name="teks_nav">Teks</string>
+    <string name="video_nav">Video</string>
+
+    <string name="teks1tentang">Media ini berupa aplikasi teknik dasar passing bawah bola voli untuk atlet usia dini. Pengguna dapat mempelajari materi teknik dasar passing bawah dengan melihat video dan membaca penjelasan singkat materi dalam aplikasi.</string>
+    <string name="teks2tentang">Manfaat aplikasi ini antara lain :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
